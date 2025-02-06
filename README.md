@@ -19,7 +19,7 @@ It does exactly as promised, using N-body physics and Verlet integration to inst
   
 ## **HOW DO I INSTALL THIS?**
 
-1. Download the **.rbxm**
+1. [Download](https://github.com/aperson5647/Roblox-Orbital-Trajectory/releases/tag/Roblox) the **.rbxm**
 2. Import it into Roblox
 3. Follow the README script bundled
 
