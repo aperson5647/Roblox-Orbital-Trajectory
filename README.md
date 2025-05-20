@@ -15,7 +15,6 @@ It does exactly as promised, using N-body physics and Verlet integration to inst
 * **CUSTOMIZABLE THICKNESS**
 * **CAN CHANGE SETTINGS AT RUNTIME**
 * **FAIRLY ACCURATE**
-* **RUNS PRETTY FAST (INSTANT!)**
   
 ## **HOW DO I INSTALL THIS?**
 
@@ -28,5 +27,3 @@ It does exactly as promised, using N-body physics and Verlet integration to inst
 This repo is licensed under the [MIT License](https://opensource.org/license/mit).
 
 [Click here](https://github.com/aperson5647/Roblox-Orbital-Trajectory/blob/master/LICENSE) to see the one under the repo.
-
-<sub>yes I copied the README.md from my [***WORD SPAMMER***](https://github.com/aperson5647/Word-Spammer)</sub>
